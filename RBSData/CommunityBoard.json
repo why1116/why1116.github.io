@@ -1,0 +1,100 @@
+{
+  "FeaturedPlayer": {
+    "Id": 69,
+    "TitleOverride": "Featured Lack of Player",
+    "UrlOverride": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+  },
+  "FeaturedRoomGroup": {
+    "Name": "November Highlights",
+    "FeaturedRooms": [
+      {
+        "RoomName": "Crescendo",
+        "RoomId": 10,
+        "ImageName": "Crescendo.png"
+      },
+      {
+        "RoomName": "Bowling",
+        "RoomId": 19,
+        "ImageName": "bowling.png"
+      }
+    ]
+  },
+  "CurrentAnnouncement": {
+    "Message": "i havent updated this in a while lol, click on the button for idk a cookie -->",
+    "MoreInfoUrl": "https://www.youtube.com/watch?v=UdwPh7qdwhM"
+  },
+  "InstagramImages": [
+    {
+      "ImageName": "Community/Instagram/Welcome.png",
+      "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
+    },
+    {
+      "ImageName": "Community/Instagram/coachgun.png",
+      "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
+    },
+    {
+      "ImageName": "Community/Instagram/beer.png",
+      "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
+    },
+    {
+      "ImageName": "Community/Instagram/buy now.png",
+      "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
+    },
+    {
+      "ImageName": "Community/Instagram/game.png",
+      "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
+    },
+    {
+      "ImageName": "Community/Instagram/our.png",
+      "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
+    },
+    {
+      "ImageName": "Community/Instagram/villagersex.png",
+      "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
+    },
+    {
+      "ImageName": "Community/Instagram/what it cost.png",
+      "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
+    },
+    {
+      "ImageName": "Community/Instagram/PVP.png",
+      "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
+    },
+    {
+      "ImageName": "Community/Instagram/witch bitch.jpg",
+      "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
+    },
+    {
+      "ImageName": "Community/Instagram/Fuck you 2022.png",
+      "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
+    },
+    {
+      "ImageName": "Community/Instagram/SquadWard.jpg",
+      "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
+    }
+    
+  ],
+  "Videos": [
+    {
+      "BlobName": "real.mp4",
+      "Title": "CoffeeVault for 2022???",
+      "Description": "REAL!??!?!",
+      "ThumbnailBlobName": "IDK.png",
+      "SourceUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    },
+    {
+      "BlobName": "u.webm",
+      "Title": "November 15th",
+      "Description": "REAL!??!?!",
+      "ThumbnailBlobName": "IDK.png",
+      "SourceUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    },
+    {
+      "BlobName": "deez.mp4",
+      "Title": "When the imposter is sus",
+      "Description": "REAL!??!?!",
+      "ThumbnailBlobName": "Community/Videos/deez.png",
+      "SourceUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    }
+  ]
+}
