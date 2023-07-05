@@ -1,11 +1,11 @@
 {
   "FeaturedPlayer": {
     "Id": 69,
-    "TitleOverride": "Test",
-    "UrlOverride": "https://www.youtube.com/watch?v=8PBGH4lmE9k&ab_channel=%E8%B1%9A%E4%B9%99%E5%A5%B3%EF%BC%88butaotome%EF%BC%89OfficialChannel"
+    "TitleOverride": "Featured Lack of Player",
+    "UrlOverride": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
   },
   "FeaturedRoomGroup": {
-    "Name": "July Highlights",
+    "Name": "November Highlights",
     "FeaturedRooms": [
       {
         "RoomName": "Crescendo",
@@ -20,8 +20,8 @@
     ]
   },
   "CurrentAnnouncement": {
-    "Message": "Shadow the hedgehog is a bitch ass....",
-    "MoreInfoUrl": "https://www.youtube.com/watch?v=tLBL4M55tJU&ab_channel=I%27mAMemberoftheMidnightCrew"
+    "Message": "i havent updated this in a while lol, click on the button for idk a cookie -->",
+    "MoreInfoUrl": "https://www.youtube.com/watch?v=UdwPh7qdwhM"
   },
   "InstagramImages": [
     {
@@ -76,25 +76,25 @@
   ],
   "Videos": [
     {
-      "BlobName": "Gangnamstyle",
-      "Title": "uh oh",
-      "Description": "not clicker bait",
+      "BlobName": "real.mp4",
+      "Title": "CoffeeVault for 2022???",
+      "Description": "REAL!??!?!",
       "ThumbnailBlobName": "IDK.png",
-      "SourceUrl": "https://www.youtube.com/watch?v=ZaFd5xdunKI&ab_channel=I%27veofficallyranoutofnamesforthischannel."
+      "SourceUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
     },
     {
-      "BlobName": "Spy Stole The Precious Thing",
-      "Title": "Spy Stole The Precious Thing",
-      "Description": "Stolen :(",
+      "BlobName": "u.webm",
+      "Title": "November 15th",
+      "Description": "REAL!??!?!",
       "ThumbnailBlobName": "IDK.png",
-      "SourceUrl": "https://www.youtube.com/watch?v=1qVRxy9fuTU&ab_channel=washy"
+      "SourceUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
     },
     {
-      "BlobName": "Stop at the affected part and melt quickly",
-      "Title": "Only Kids play in easy modo.",
-      "Description": "Ehh Easy modo??",
-      "ThumbnailBlobName": "Inba is (x8)",
-      "SourceUrl": "https://www.youtube.com/watch?v=D1HAsA0_tBQ&ab_channel=IOSYS"
+      "BlobName": "deez.mp4",
+      "Title": "When the imposter is sus",
+      "Description": "REAL!??!?!",
+      "ThumbnailBlobName": "Community/Videos/deez.png",
+      "SourceUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
     }
   ]
 }
